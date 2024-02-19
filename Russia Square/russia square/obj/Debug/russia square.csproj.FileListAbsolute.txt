@@ -1,0 +1,11 @@
+C:\Users\MOSTAFA\source\repos\russia square\russia square\bin\Debug\russia square.exe.config
+C:\Users\MOSTAFA\source\repos\russia square\russia square\bin\Debug\russia square.exe
+C:\Users\MOSTAFA\source\repos\russia square\russia square\bin\Debug\russia square.pdb
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia square.csproj.AssemblyReference.cache
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia_square.Form1.resources
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia_square.Properties.Resources.resources
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia square.csproj.GenerateResource.cache
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia square.csproj.CoreCompileInputs.cache
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia square.exe
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia square.pdb
+C:\Users\MOSTAFA\source\repos\russia square\russia square\obj\Debug\russia_square.Form2.resources
